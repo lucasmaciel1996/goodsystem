@@ -1,4 +1,4 @@
-@servers(['WS' => 'root@ec2-3-83-8-158.compute-1.amazonaws.com','LH' => 'localhost'])
+@servers(['WS' => 'centos@3.83.8.158','LH' => 'localhost'])
 
 @setup
     $repository = 'https://github.com/lucasmaciel1996/goodsystem.git';
